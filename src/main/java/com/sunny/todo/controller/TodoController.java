@@ -1,4 +1,4 @@
-package com.sunny.todo;
+package com.sunny.todo.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
